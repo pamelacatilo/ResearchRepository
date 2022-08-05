@@ -1,0 +1,115 @@
+SC9T-2CXC
+
+9636
+
+Certificate in Information TechnologySymonds Street Campus, Wellington Campus, Christchurch Campus
+Pre-degree certificate, 60 credits
+
+Study this programme fees-free*
+
+This programme is perfect for those with a keen interest in looking to enter the IT industry or to upskill for future career opportunities. It also provides a solid foundation for IT diploma-level study.
+
+You will gain essential IT and professional skills that are needed in today’s IT industry with training in IT systems, programming principles, professional practice, data handling, and web concepts.
+
+Career opportunities
+Programming
+Web Developer
+Network/Systems Administration
+Systems Analyst
+
+
+
+
+
+
+  2  65 1000001
+
+1. Why do we need an anti-static strap to work with internal computer components? is there any alternate option available?
+--Operators should use an anti static wristband to ensure any static discharge has a way to go from themselves to the ground safely. 
+Without wearing a wristband whilst working on a static sensitive device/component you could effectively transfer static discharge onto the item and cause significant damage.
+
+Use anti static strap.
+Anti static wrist straps are designed to safely ground operators working with ESD sensitive components, 
+preventing a build-up of static electricity. Antistat's range of wristbands are designed to be worn close to the skin establishing a path to ground.
+2.List down the model numbers of internal components and find out the specificaions
+3.How RAM operates to store the data?
+
+-- Random Access Memory
+It can be thought of like a computer's short term memory. It works by storing common data that programs are in constant use of, 
+rather than storing the data on a much slower medium like a Solid State Hard Drive (or SSD). 
+RAM doesn't automatically have data saved on each chip though.
+
+-- Is RAM used for storing data storage?
+Computer random access memory (RAM) is one of the most important components in determining your system's performance. 
+RAM gives applications a place to store and access data on a short-term basis.
+It stores the information your computer is actively using so that it can be accessed quickly.
+
+4.What is the purpose of BIOS and why is it important?
+
+--What does BIOS do and why is it important?
+BIOS (basic input/output system) is the program a computer's microprocessor uses to start the computer system after it is powered on. 
+It also manages data flow between the computer's operating system (OS) and attached devices, 
+such as the hard disk, video adapter, keyboard, mouse and printer.
+
+What is the most important role of the BIOS?
+BIOS software has several roles to do, but its most important role is to load the OS for you and 
+to manage the data flow between the OS and attached hardware devices. 
+To access and configure BIOS you need to go to BIOS Setup Utility after performing a set of instructions.
+
+Task 2 Students will list down all the softwares installed in their pc and categorize them such as:
+
+system software
+application software
+utility software
+operating software
+device driver
+
+
+application --
+
+
+Full Job Description
+Auckland, New Zealand
+Full-time
+UoA Department Name: HR Services
+Campus: Auckland City Campus
+Contract Type: Fixed-Term
+Position Number: 55569786
+Company Description
+Company Description
+
+The University of Auckland is New Zealand’s leading university. We employ more than 5400 academic and professional staff to support over 41,000 students, making us one of NZ’s largest employers.
+
+Job Description
+Te Whiwhinga mahi | The opportunity
+
+Waipapa Taumata Rau | University of Auckland is undertaking a significant programme to transition from its legacy PeopleSoft Human Resources Management System to a leading new Software-as-a-Service solution. This transition requires the skills and support of an experienced enterprise data migration specialist.
+
+This Data Migration Specialist is a technical analyst role that has some overlap with the practices of data architecture. The successful candidate is expected to have systems-integration and system-design experiences and will preferably also have specialised knowledge in the human resources and adjacent business domains at an operational level.
+
+The main purpose of this position is to work with subject-matter experts, business owners, stakeholders, customers, and the project team in gathering business requirements for data migration needs, and to lead the implementation of those requirements with sustainable technical patterns and approaches.
+
+Data Analysis
+
+Analysis of legacy data models to determine the usage and business purpose of data attributes.
+Work with stakeholders to determine requirements for data migration needs.
+Data migration preparation / planning
+
+Work with the project team and implementation partner, to deliver the source to target system field mapping, build transformation code and load data.
+Prepare data migration plans including migration risk, milestones, quality, and business sign-off details.
+Data migration
+
+Perform migration and testing of static data and transaction data from one core system to another.
+Perform data migration audit, reconciliation, and exception reporting.
+For further information please refer to the Position Description attached.
+
+Nga Pūkenga Motuhake | Important Skills
+
+Essential:
+
+Proven working experience as a data analyst / migration specialist.
+Previous experience with large scale ERP system migrations.
+Strong analytical skills with the ability to collect, organise, analyse, and disseminate significant amounts of information with attention to detail and accuracy.
+Hands-on experience interrogating and manipulating data in data base technologies such as SQL and Oracle databases using languages like SQL or PL/SQL.
+Technical expertise regarding data models, database design development, data mining and segmentation techniques
+We are looking to appoint this position as soon as the right candidate applies and is available, we prefer to engage this role as a 18month fixed term employee with an additional extension till June 2025.
